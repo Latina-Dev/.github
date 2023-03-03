@@ -1,2 +1,0 @@
-# .github
-Latina Dev 🦉

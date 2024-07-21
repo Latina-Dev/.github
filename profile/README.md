@@ -9,5 +9,5 @@ Our goal is to increase visibility and access to valuable opportunities.
 ## Resources
 
 - [Contribute on GitHub](https://github.com/Latina-Dev/latina-dev)
-- [Join us on Discord](https://discord.gg/xzHDhxsQAQ)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/latina-dev/)
+- [Request an invite](mailto:hello@latinadev.com) to [Slack](https://latinadev.slack.com)

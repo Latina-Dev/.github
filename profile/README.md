@@ -10,4 +10,4 @@ Our goal is to increase visibility and access to valuable opportunities.
 
 - [Contribute on GitHub](https://github.com/Latina-Dev/latina-dev)
 - [Follow us on LinkedIn](https://www.linkedin.com/company/latina-dev/)
-- [Request an invite](mailto:hello@latinadev.com) to [Slack](https://latinadev.slack.com)
+- [Request an invite](mailto:hello@latinadev.com) to [our Slack workspace](https://latinadev.slack.com)
